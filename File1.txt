@@ -1,0 +1,1 @@
+"Adding first new file with GIT" 
